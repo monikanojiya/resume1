@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&family=Hind:wght@300&family=Nunito:ital,wght@0,200;0,300;0,400;1,400&family=Rubik+Moonrocks&display=swap');
 
 :root{
-    --yellow:rgb(245, 30, 51);
+    --yellow:rgb(49, 131, 239);
 }
 *{
     font-family:'Nunito', sans-serif; 
@@ -126,7 +126,7 @@ header .navbar ul li a:hover{
 
 }
 .home h3 span{
-    color: var(--yellow);
+    color:blue;
 
 }
 .home p{
@@ -183,7 +183,7 @@ padding: 1rem 0;
     color: #fff;
 }
 .heading span{
-     color:blue;
+     color: var(--yellow);
 
 
 
